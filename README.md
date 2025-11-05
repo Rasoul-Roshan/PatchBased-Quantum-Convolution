@@ -11,8 +11,6 @@ This repository contains the official source code for the paper:
 
 If you use this code in your academic work, please cite our paper. This is the most direct way to support this research.
 
-GitHub's sidebar also has an automatic "Cite this repository" button, generated from the `CITATION.cff` file.
-
 We provide a pre-formatted BibTeX entry for your convenience:
 
 ```bibtex
@@ -86,4 +84,5 @@ python analysis_qubit_scaling.py
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
