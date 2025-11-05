@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+
+# 1. Metadata for the SOFTWARE itself
+title: 'PatchBased-Quantum-Convolution'
+version: 1.0.0
+date-released: '2025-11-05'
+authors:
+  - name: "PatchBased-Quantum-Convolution Authors"
+repository-code: 'https://github.com/Rasoul-Roshan/PatchBased-Quantum-Convolution'
+license: MIT
+
+# 2. Metadata for the associated PAPER (this is what users should cite)
+preferred-citation:
+  type: article
+  title: "A Qubit-Efficient Quantum Algorithm for Convolutional Feature Extraction"
+  year: 2025 
+
+  authors:
+    # --- Author 1 (First Author) ---
+    - family-names: "Roshanshah"
+      given-names: "Mohammad Rasoul"
+
+    # --- Author 2 ---
+    - family-names: "Kazemikhah"
+      given-names: "Payman"
+      
+    # --- Author 3 ---
+    - family-names: "Aghababa"
+      given-names: "Hossein"
+
+    # --- Author 4 ---
+    - family-names: "Barati"
+      given-names: "Masoud"
+

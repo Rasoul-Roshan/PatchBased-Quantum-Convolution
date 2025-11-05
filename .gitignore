@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+.env/
+
+# IDE/Editor configuration files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
