@@ -1,5 +1,20 @@
+# Core numerics and plotting (all scripts)
 numpy
 matplotlib
+
+# Quantum circuit construction and simulation
+# (quantum_convolution_lib.py, demo_single_run.py, analysis_mse_vs_shots.py)
 qiskit
 qiskit-aer
+
+# Required by Qiskit to render circuit diagrams with output='mpl'
+# (quantum_convolution_lib.plot_circuit_diagram)
+pylatexenc
+
+# Standard benchmark image ('Cameraman') and resizing
+# (large_scale_emulation.py)
+scikit-image
+
+# Optional: only needed if you extend the plots beyond the built-in
+# matplotlib 'seaborn-v0_8-whitegrid' style used in the analysis scripts
 seaborn
