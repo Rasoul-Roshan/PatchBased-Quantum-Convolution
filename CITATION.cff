@@ -15,7 +15,11 @@ preferred-citation:
   type: article
   title: A qubit-efficient quantum algorithm for convolutional feature extraction
   journal: Quantum Machine Intelligence
+  doi: 10.1007/s42484-026-00425-1
+  volume: 8
   year: 2026 
+  month: 7
+  
 
   authors:
     # --- Author 1 (First Author) ---
