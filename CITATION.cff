@@ -13,7 +13,7 @@ license: MIT
 # 2. Metadata for the associated PAPER (this is what users should cite)
 preferred-citation:
   type: article
-  title: "A qubit-efficient quantum algorithm for convolutional feature extraction"
+  title: A qubit-efficient quantum algorithm for convolutional feature extraction
   journal: Quantum Machine Intelligence
   year: 2026 
 
