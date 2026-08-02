@@ -2,11 +2,7 @@
 
 This repository contains the official source code for the paper:
 
-> **A Qubit-Efficient Quantum Algorithm for Convolutional Feature Extraction**
->
-> Mohammad Rasoul Roshanshah, Payman Kazemikhah, Hossein Aghababa, Masoud Barati
->
-> *arXiv (2025)*: **[Link to arXiv paper]**
+> Roshanshah, M.R., Kazemikhah, P., Aghababa, H. et al. A qubit-efficient quantum algorithm for convolutional feature extraction. Quantum Mach. Intell. 8, 82 (2026). https://doi.org/10.1007/s42484-026-00425-1
 
 ## 💡 Citation
 
@@ -15,12 +11,12 @@ If you use this code in your academic work, please cite our paper. This is the m
 We provide a pre-formatted BibTeX entry for your convenience:
 
 ```bibtex
-@article{Roshanshah2025_QubitEfficient,
-  title   = {A Qubit-Efficient Quantum Algorithm for Convolutional Feature Extraction},
+@article{Roshanshah2026,
+  title   = {A qubit-efficient quantum algorithm for convolutional feature extraction},
   author  = {Roshanshah, Mohammad Rasoul and Kazemikhah, Payman and Aghababa, Hossein and Barati, Masoud},
-  journal = {arXiv preprint arXiv:[arXiv_ID]},
+  journal = {Quantum Machine Intelligence},
   year    = {2025},
-  url     = {[Link to arXiv paper]}
+  url     = {https://doi.org/10.1007/s42484-026-00425-1}
 }
 ````
 
