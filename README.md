@@ -15,8 +15,9 @@ We provide a pre-formatted BibTeX entry for your convenience:
   title   = {A qubit-efficient quantum algorithm for convolutional feature extraction},
   author  = {Roshanshah, Mohammad Rasoul and Kazemikhah, Payman and Aghababa, Hossein and Barati, Masoud},
   journal = {Quantum Machine Intelligence},
-  year    = {2025},
-  url     = {https://doi.org/10.1007/s42484-026-00425-1}
+  volume  = {8},
+  year    = {2026},
+  doi     = {10.1007/s42484-026-00425-1}
 }
 ````
 
