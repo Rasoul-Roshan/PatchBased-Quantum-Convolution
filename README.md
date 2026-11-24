@@ -2,7 +2,7 @@
 
 This repository contains the official source code for the paper:
 
-> Roshanshah, M.R., Kazemikhah, P., Aghababa, H. et al. A qubit-efficient quantum algorithm for convolutional feature extraction. Quantum Mach. Intell. 8, 82 (2026). https://doi.org/10.1007/s42484-026-00425-1
+> Roshanshah, M.R., Kazemikhah, P., Aghababa, H. et al. A qubit-efficient quantum algorithm for convolutional feature extraction. Quantum Machine Intelligence 8, 82 (2026). https://doi.org/10.1007/s42484-026-00425-1
 
 ## 💡 Citation
 
